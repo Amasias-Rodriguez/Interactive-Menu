@@ -28,6 +28,7 @@
     top: 17%;
     left: 10%;
     padding: 50px 100px; 
+    transition: top 2s;
 }
 
 .right-links{
